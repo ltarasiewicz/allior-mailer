@@ -1,0 +1,21 @@
+{
+    "name": "ltarasiewicz/interview",
+    "description": "Interview assignement",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "ltarasiewicz",
+            "email": "lukasz.tarasiewicz@polcode.net"
+        }
+    ],
+    "require": {
+        "league/csv": "^7.1",
+        "swiftmailer/swiftmailer": "^5.4"
+    },
+    "autoload": {
+        "psr-4": {
+          "": "src/"
+        }
+    }
+}

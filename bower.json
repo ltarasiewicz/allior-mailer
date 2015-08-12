@@ -1,0 +1,18 @@
+{
+  "name": "interview.local",
+  "version": "0.0.1",
+  "homepage": "https://github.com/ltarasiewicz/scotchbox-ansible",
+  "authors": [
+    "ltarasiewicz <lukasz.tarasiewicz@polcode.net>"
+  ],
+  "description": "Interview assignement",
+  "main": "main.css",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

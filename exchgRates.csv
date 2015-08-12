@@ -1,0 +1,51 @@
+﻿Tabela kursów walut - Alior Bank;;;;;
+;;;;;
+Numer tabeli;20150729145214;;;;
+Data;29.07.2015;;;;
+Godzina;14.52;;;;
+;;;;;
+Dewizy;;;;;
+Kraj;Nazwa waluty;Kod waluty;Skup;Sprzedaż;Zmiana%;Spread%
+USA;dolar;1 USD;3.5629;3.9023;-0.1637%;9.09%
+USA**;dolar**;1 USD**;3.4560;4.0194;-0.1639%;15.07%
+EUGiW;euro;1 EUR;3.9363;4.3104;-0.0904%;9.07%
+EUGiW**;euro**;1 EUR**;3.8182;4.4397;-0.0900%;15.05%
+Szwajcaria;frank;1 CHF;3.7745;3.9719;0.0025%;5.10%
+Szwajcaria*;frank*;1 CHF*;3.8403;3.9061;-1.6542%;1.70%
+Wielka Brytania;funt;1 GBP;5.5588;6.0890;-0.0345%;9.10%
+Wielka Brytania**;funt**;1 GBP**;5.3920;6.2717;-0.0335%;15.08%
+Kanada;dolar kanadyjski;1 CAD;2.7503;3.0157;0.0996%;9.21%
+Norwegia;korona norweska;1 NOK;0.4350;0.4769;-0.1466%;9.19%
+Rosja;rubel;1 RUB;0.0585;0.0662;0.9146%;12.35%
+Dania;korona duńska;1 DKK;0.5275;0.5778;-0.0865%;9.10%
+Czechy;korona czeska;1 CZK;0.1455;0.1596;-0.1252%;9.24%
+Szwecja;korona szwedzka;1 SEK;0.4148;0.4545;-0.1976%;9.13%
+Australia;dolar australijski;1 AUD;2.6078;2.8573;0.0630%;9.13%
+Rumunia;lej rumuński;1 RON;0.8912;0.9770;-0.1227%;9.19%
+Turcja;lira turecka;1 TRY;1.2890;1.4139;0.0425%;9.24%
+Bułgaria;lew bułgarski;1 BGN;2.0126;2.2040;-0.0952%;9.08%
+RPA;rand RPA;1 ZAR;0.2834;0.3107;0.0322%;9.19%
+MXN;peso meksykańskie;1 MXN;0.2186;0.2399;-0.1249%;9.29%
+;;;;;
+Pieniądze;;;;;
+Kraj;Nazwa waluty;Kod waluty;Skup;Sprzedaż;Zmiana%;Spread%
+USA;dolar;1 USD;3.5629;3.9023;-0.1637%;9.09%
+USA**;dolar**;1 USD**;3.4560;4.0194;-0.1639%;15.07%
+EUGiW;euro;1 EUR;3.9363;4.3104;-0.0904%;9.07%
+EUGiW**;euro**;1 EUR**;3.8182;4.4397;-0.0900%;15.05%
+Szwajcaria;frank;1 CHF;3.7745;3.9719;0.0025%;5.10%
+Szwajcaria*;frank*;1 CHF*;3.8403;3.9061;-1.6542%;1.70%
+Wielka Brytania;funt;1 GBP;5.5588;6.0890;-0.0345%;9.10%
+Wielka Brytania**;funt**;1 GBP**;5.3920;6.2717;-0.0335%;15.08%
+Kanada;dolar kanadyjski;1 CAD;2.7503;3.0157;0.0996%;9.21%
+Norwegia;korona norweska;1 NOK;0.4350;0.4769;-0.1466%;9.19%
+Rosja;rubel;1 RUB;0.0585;0.0662;0.9146%;12.35%
+Dania;korona duńska;1 DKK;0.5275;0.5778;-0.1037%;9.10%
+Czechy;korona czeska;1 CZK;0.1455;0.1596;-0.1252%;9.24%
+Szwecja;korona szwedzka;1 SEK;0.4148;0.4545;-0.1976%;9.13%
+Australia;dolar australijski;1 AUD;2.6078;2.8573;0.0630%;9.13%
+Rumunia;lej rumuński;1 RON;0.8912;0.9770;-0.1227%;9.19%
+Turcja;lira turecka;1 TRY;1.2890;1.4139;0.0425%;9.24%
+Bułgaria;lew bułgarski;1 BGN;2.0126;2.2040;-0.0952%;9.08%
+RPA;rand RPA;1 ZAR;0.2834;0.3107;0.0322%;9.19%
+MXN;peso meksykańskie;1 MXN;0.2186;0.2399;-0.1249%;9.29%
